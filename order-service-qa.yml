@@ -4,8 +4,8 @@ server:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/kodewala
-    username: root
-    password: root
+    username: admin
+    password: admin786
 
 eureka:
   client:
@@ -16,3 +16,4 @@ eureka:
 
   instance:
     prefer-ip-address: true
+
